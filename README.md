@@ -1,4 +1,4 @@
-# Geo Game Extreme
+# Geo Game
 
 A Unity geography game and procedural terrain experiment, created in 2023 with **Thomas Kaleta**. Fly around a generated globe and try to reach the requested country.
 
