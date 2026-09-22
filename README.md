@@ -8,7 +8,6 @@ The project's main focus is **procedural mesh generation and heightmap-based ver
 
 https://github.com/user-attachments/assets/4b014c90-e053-4170-8257-a016ed15fab9
 
-![Geo Game Extreme gameplay](https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43)
 
 ## Features
 
